@@ -1,0 +1,7 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨λ¥ή8γίξ”3
+r
+java:S3655
+"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(—©όϋÿÿÿÿ8φίξ”3
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(Όθ½Òώÿÿÿÿ8‚‘ίξ”3

@@ -13,3 +13,7 @@ t
 DremoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java,9/c/9c4124dc54fbfa280dd13e37f1281b3483c526a8
 [
 +removeDuplicatesFromSortedArray/Description,e/b/ebb3ae9a4c6a461acf4c6ffe0a9218fe39afd9fa
+K
+majorityElement/Description,b/f/bf19ba3b4d8d537c1d154b64bc52d0f43f055236
+T
+$majorityElement/MajorityElement.java,c/c/cceef491010918510639d1437506353b66019215
