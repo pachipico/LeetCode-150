@@ -1,17 +1,0 @@
-
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄïÚÔ8»İÊ¸’3
-X	java:S125"<This block of commented-out lines of code should be removed.(•ÓÜ8¨àä¸’3
-X	java:S125"<This block of commented-out lines of code should be removed.(›×âŸ8¨àä¸’3
-]	java:S125"<This block of commented-out lines of code should be removed.(àß¨úÿÿÿÿ8¨àä¸’3
-]	java:S125""<This block of commented-out lines of code should be removed.(•Úˆüÿÿÿÿ8¨àä¸’3
-]	java:S125*"<This block of commented-out lines of code should be removed.(øƒ¥‹ùÿÿÿÿ8¨àä¸’3
-O
-java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ËİÊ¸’3
-M
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ËİÊ¸’3
-V
-java:S1128"4Remove this unused import 'java.util.PriorityQueue'.(ÆãÑşøÿÿÿÿ8Àûá¸’3
-I
-java:S1128",Remove this unused import 'java.util.Queue'.(Äá™ô8Áûá¸’3
-Z
-java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ËİÊ¸’3

@@ -22,6 +22,23 @@ public class RansomNote {
         return true;
     }
 
+    // 두번째 풀이도 결과가 별로임.
+    public boolean canConstruct2(String ransomNote, String magazine) {
+        char[] magazineArr = magazine.toCharArray();
+
+        System.out.println("initial ransomNote: [" + ransomNote + "]");
+        for (int i = 0; i < magazineArr.length; i++) {
+
+            System.out.println("replacing " + magazineArr[i]);
+
+            ransomNote = ransomNote.replaceFirst(String.valueOf(magazineArr[i]), "");
+            System.out.println("ransomNote: " + ransomNote);
+        }
+
+        System.out.println("res: " + ransomNote);
+
+        return ransomNote.isBlank();
+    }
 
 
 
